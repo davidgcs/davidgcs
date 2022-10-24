@@ -184,7 +184,7 @@ let Experience = [
 
 ## :link: Links
 
-<a href="/curriculum">:page_facing_up: Download CV</a>
+<a href="https://github.com/davidgcs/davidgcs/curriculum-en.pdf">:page_facing_up: Download CV</a>
 
 <br>
 
