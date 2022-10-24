@@ -17,7 +17,6 @@
 </p>
 
 <div align="center">
-Developer by profession. <br>
 Enthusiastic about technology, mathematics, physics, gaming...<br>
 Rule 404 - Unless it doesn't exist, I can code it. <br>
 Constantly learning...<br>
