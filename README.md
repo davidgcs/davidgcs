@@ -1,6 +1,5 @@
 <!--<div align="center" id="top"> 
   <img src="https://avatars.githubusercontent.com/u/18161888?v=4" alt="Curriculum" style="width: 100px; height:100px; border-radius: 200%;"/>
-  <!-- <a href="https://curriculum.netlify.app">Demo</a> -->
 </div>-->
 
 <h1 align="center">David Gómez Cesteros</h1>
