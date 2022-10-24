@@ -10,6 +10,7 @@
   <a href="#office-experience">Experience</a> &#xa0; | &#xa0;
   <a href="#top-projects">Projects</a> &#xa0; | &#xa0;
   <a href="#sparkles-skills">Skills</a>
+  <a href="#link-links">Links</a>
   <!-- <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -180,5 +181,11 @@ let Experience = [
         :black_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle:
     </div>
 </div>
+
+## :link: Links
+
+<a href="/curriculum"/>
+
+<br>
 
 <a href="#top">Back to top</a>
