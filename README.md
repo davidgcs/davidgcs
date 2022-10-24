@@ -9,7 +9,7 @@
   <a href="#books-studies">Studies</a> &#xa0; | &#xa0;
   <a href="#office-experience">Experience</a> &#xa0; | &#xa0;
   <a href="#top-projects">Projects</a> &#xa0; | &#xa0;
-  <a href="#sparkles-skills">Skills</a>
+  <a href="#sparkles-skills">Skills</a> &#xa0; | &#xa0;
   <a href="#link-links">Links</a>
   <!-- <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -184,7 +184,7 @@ let Experience = [
 
 ## :link: Links
 
-<a href="/curriculum"/>
+<a href="/curriculum"></a>
 
 <br>
 
