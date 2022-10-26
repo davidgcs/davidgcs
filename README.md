@@ -150,7 +150,7 @@ let Experience = [
     <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" style="width: 15px; height: 15px;">
     Node JS
     <div>
-        :black_circle: :black_circle: :black_circle: :white_circle: :white_circle: :white_circle:
+        :black_circle: :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:
     </div>
 </div>
 <div style="display:flex">
