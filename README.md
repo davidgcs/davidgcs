@@ -72,28 +72,28 @@ const Studies = [
 ```javascript
 let Experience = [
   {
-    "jobPossition": "Fullstack Developer",
-    "company": "Eurofirms",
-    "startDate": "March 2023",
-    "endDate": Date.now()
+    jobPossition: "Fullstack Developer",
+    company: "Eurofirms",
+    startDate: "March 2023",
+    endDate: Date.now()
   },
   {
-    "jobPossition": "Software Engineer",
-    "company": "Nielsen",
-    "startDate": "November 2019",
-    "endDate": "March 2023"
+    jobPossition: "Software Engineer",
+    company: "Nielsen",
+    startDate: "November 2019",
+    endDate: "March 2023"
   },
   {
-    "jobPossition": "Mobile Developer",
-    "company": "Telefónica Educación Digital",
-    "startDate": "March 2019",
-    "endDate": "November 2019"
+    jobPossition: "Mobile Developer",
+    company: "Telefónica Educación Digital",
+    startDate: "March 2019",
+    endDate: "November 2019"
   },
   {
-    "jobPossition": "Fullstack Developer",
-    "company": "Doers DF",
-    "startDate": "March 2017",
-    "endDate": "March 2019"
+    jobPossition: "Fullstack Developer",
+    company: "Doers DF",
+    startDate: "March 2017",
+    endDate: "March 2019"
   },
 ];
 ```
