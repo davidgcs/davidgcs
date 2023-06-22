@@ -72,22 +72,28 @@ const Studies = [
 ```javascript
 let Experience = [
   {
-    Job: "Software Engineer",
-    Company: "Nielsen",
-    From: "November 2019",
-    To: Date.now(),
+    "jobPossition": "Fullstack Developer",
+    "company": "Eurofirms",
+    "startDate": "March 2023",
+    "endDate": Date.now()
   },
   {
-    Job: "Mobile Developer",
-    Company: "Telefónica Educación Digital",
-    From: "March 2019",
-    To: "November 2019",
+    "jobPossition": "Software Engineer",
+    "company": "Nielsen",
+    "startDate": "November 2019",
+    "endDate": "March 2023"
   },
   {
-    Job: "Fullstack Developer",
-    Company: "Doers DF",
-    From: "March 2017",
-    To: "March 2019",
+    "jobPossition": "Mobile Developer",
+    "company": "Telefónica Educación Digital",
+    "startDate": "March 2019",
+    "endDate": "November 2019"
+  },
+  {
+    "jobPossition": "Fullstack Developer",
+    "company": "Doers DF",
+    "startDate": "March 2017",
+    "endDate": "March 2019"
   },
 ];
 ```
@@ -95,6 +101,9 @@ let Experience = [
 ## :top: Projects
 
 <ul>
+  <li>
+    <a href="https://buscoextra.es" target="_blank">BuscoExtra</a>
+  </li>
   <li>
     <a href="https://es.greenpeace.org/es/" target="_blank">Greenpeace spain site</a>
   </li>
