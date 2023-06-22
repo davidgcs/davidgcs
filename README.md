@@ -1,4 +1,4 @@
-<!--<div align="center" id="top"> 
+<!--<div align="center" id="top">
   <img src="https://avatars.githubusercontent.com/u/18161888?v=4" alt="Curriculum" style="width: 100px; height:100px; border-radius: 200%;"/>
 </div>-->
 
@@ -75,25 +75,25 @@ let Experience = [
     jobPossition: "Fullstack Developer",
     company: "Eurofirms",
     startDate: "March 2023",
-    endDate: Date.now()
+    endDate: Date.now(),
   },
   {
     jobPossition: "Software Engineer",
     company: "Nielsen",
     startDate: "November 2019",
-    endDate: "March 2023"
+    endDate: "March 2023",
   },
   {
     jobPossition: "Mobile Developer",
     company: "Telefónica Educación Digital",
     startDate: "March 2019",
-    endDate: "November 2019"
+    endDate: "November 2019",
   },
   {
     jobPossition: "Fullstack Developer",
     company: "Doers DF",
     startDate: "March 2017",
-    endDate: "March 2019"
+    endDate: "March 2019",
   },
 ];
 ```
@@ -193,7 +193,9 @@ let Experience = [
 
 ## :link: Links
 
-<a href="https://github.com/davidgcs/davidgcs/blob/master/CV_DavidGomezCesteros_EN.pdf">:page_facing_up: Download CV</a>
+<a href="https://github.com/davidgcs/davidgcs/blob/master/CV_DavidGomezCesteros_EN.pdf">:page_facing_up: Download CV (Short version)</a>
+
+<a href="https://github.com/davidgcs/davidgcs/blob/master/CV_DavidGomezCesteros_EN_Extended.pdf">:page_facing_up: :page_facing_up: :page_facing_up: Download CV (Extended version)</a>
 
 <br>
 
