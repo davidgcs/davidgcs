@@ -72,10 +72,16 @@ const Studies = [
 ```javascript
 let Experience = [
   {
+    jobPossition: "Senior Mobile Engineer",
+    company: "Aristocrat Gaming",
+    startDate: "November 2023",
+    endDate: Date.now(),
+  },
+  {
     jobPossition: "Fullstack Developer",
     company: "Eurofirms",
     startDate: "March 2023",
-    endDate: Date.now(),
+    endDate: "November 2023",
   },
   {
     jobPossition: "Software Engineer",
@@ -102,7 +108,7 @@ let Experience = [
 
 <ul>
   <li>
-    <a href="https://buscoextra.es" target="_blank">BuscoExtra</a>
+    <a href="https://www.aristocratgaming.com/us/casino-operator/cx-solutions/customer-mobile-experience/playermax" target="_blank">PlayerMax</a>
   </li>
   <li>
     <a href="https://es.greenpeace.org/es/" target="_blank">Greenpeace spain site</a>
