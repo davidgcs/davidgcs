@@ -1,0 +1,42 @@
+---------------- ARISTOCRAT GAMING ---------------------
+
+As a Senior Mobile Engineer on the PlayerMax project at Aristocrat Gaming, I contributed to the development of a mobile-centric casino management platform designed to enhance player engagement and streamline casino operations. I was responsible for building and maintaining the PlayerMax mobile application for both iOS and Android using modern hybrid frameworks (Ionic, Angular), focusing on scalable architecture, clean code, and modular design.
+
+My role included translating Figma designs into responsive, pixel-perfect user interfaces, implementing dynamic layouts, and ensuring accessibility and multilingual support. I developed front-end components and navigation flows, integrating RESTful APIs for secure and efficient backend communication. I actively participated in code reviews, enforced quality standards, and wrote unit tests to maintain functional integrity and prevent regressions.
+
+I was involved in backlog refinement, sprint planning, and architectural discussions, contributing to requirements analysis, technical task breakdown, and promoting component reuse and long-term maintainability. I collaborated closely with UX designers, QA engineers, and backend developers to validate features, resolve edge cases, and ensure seamless integration across the platform.
+
+Utilizing tools such as GitHub, SonarQube, Jira, and CI/CD pipelines, I supported automated builds, code quality monitoring, and continuous delivery within an Agile Scrum environment. My work emphasized performance optimization, accessibility, and delivering a secure, engaging user experience aligned with business objectives.
+
+---------------- EUROFIRMS ---------------------
+
+
+Led the technical modernization and relaunch of BuscoExtra, Spain’s first fully digital temporary staffing platform for the hospitality sector, following its acquisition by Eurofirms. Oversaw all project phases, from legacy codebase audit and recovery to delivery and continuous deployment, coordinating a cross-functional team and aligning technical solutions with business objectives.
+
+Upgraded the entire technology stack (Ionic, Angular, PHP Symfony), migrated to modern frameworks (Capacitor), and implemented automated candidate matching and digital hiring workflows, ensuring regulatory compliance and operational efficiency. Designed and maintained secure REST APIs, hybrid mobile applications, and web platforms, applying modular architecture principles and best practices for security and scalability.
+
+Established CI/CD pipelines using Docker, Bitbucket, and Jira, introduced automated testing and proactive monitoring, and ensured high platform availability and rapid incident response. Collaborated closely with stakeholders to gather requirements, set priorities, and deliver solutions in a fast-paced, agile (Scrum) environment, fostering continuous improvement and product excellence.
+
+---------------- NIELSEN IQ ---------------------
+
+As a Full Stack Developer and Technical Lead at NielsenIQ, I contributed to the design and delivery of advanced cloud-based solutions for retail optimization and revenue management. I led the development of Shelf Architect, a platform leveraging real-time analytics and elasticity modeling to optimize shelf space and assortment strategies for global retailers. My responsibilities included building interactive simulation tools using Angular and Java (Spring Boot), implementing real-time data capture and advanced data visualizations (AG Grid), and developing secure RESTful APIs for scalable microservices architectures.
+
+I also played a key role in the Retail Pricing & Revenue Management Suite, which empowers retailers to simulate pricing and promotion scenarios, forecast revenue, and identify growth opportunities using predictive analytics and machine learning. I contributed to both frontend and backend development, designed intuitive dashboards, and integrated data from sources like MongoDB and Snowflake. I ensured high code quality through rigorous unit and integration testing (Jasmine, Karma, JUnit), automated CI/CD pipelines (Docker, Jenkins), and proactive monitoring (Azure Application Insights).
+
+Throughout these projects, I collaborated closely with cross-functional teams, translated business requirements into technical solutions, and participated in Agile Scrum ceremonies to drive iterative development and continuous delivery. My work emphasized scalable architecture, data-driven decision support, and delivering intuitive, high-impact tools for the retail industry.
+
+---------------- TELEFÓNICA EDUCACIÓN DIGITAL ---------------------
+
+As a Mobile Developer for the UEM Secure Exam project at Telefónica Educación Digital, I contributed to the development of a high-security hybrid mobile application for digital exam administration on institution-owned iOS tablets at a leading Spanish university. Using Ionic and Angular, I developed and enhanced core functionalities focused on user experience, security, and compliance.
+
+My responsibilities included integrating encrypted data workflows to ensure secure download, storage, and presentation of exam content from a custom CMS, as well as building UI components for exam navigation, timer management, and answer submission. I coordinated closely with backend teams to integrate RESTful APIs, managed secure data transfer, and enforced strict device lockdown via iOS kiosk mode and custom firmware, preventing unauthorized access or multitasking during exams.
+
+I implemented AES and SSL/TLS encryption protocols for end-to-end data protection, developed randomized exam content to minimize academic dishonesty, and maintained detailed audit logs for traceability and compliance. I also wrote and maintained unit and end-to-end tests, managed app builds and private distribution via TestFlight, and conducted client demos to gather feedback and ensure alignment with project milestones. My work was delivered within an Agile Scrum environment, emphasizing security, reliability, and seamless user experience.
+
+----------------------------- DOERS DF -----------------------------
+
+As a Full Stack Developer at Doers DF, I contributed to the delivery and maintenance of over 30 digital projects for a diverse portfolio of clients, including NGOs, multinational corporations, and foundations such as Greenpeace, Nestlé, and World Vision Foundation International. My responsibilities spanned the development of corporate websites, campaign pages, custom CMS solutions, and hybrid mobile applications for logistics, fundraising, education, and user engagement.
+
+I implemented front-end features using HTML5, CSS3, JavaScript, AngularJS/Angular, and supported responsive design and cross-browser compatibility. On the backend, I worked with PHP, MySQL, and MongoDB, integrating RESTful APIs, payment gateways, and third-party services. I managed WordPress platform setup, domain operations, and ongoing website maintenance, ensuring reliable content updates and technical support.
+
+I independently led complex projects from concept to deployment, including large-scale content migrations, event-driven microsites, and a React-based web application for business coaching. I collaborated in a multidisciplinary team, participated in daily coordination meetings inspired by Agile practices, and adapted quickly to shifting priorities in a fast-paced agency environment. My work emphasized technical versatility, rapid delivery cycles, and close client collaboration to deliver impactful digital solutions across multiple industries.
