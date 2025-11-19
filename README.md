@@ -73,8 +73,14 @@ let Experience = [
   {
     jobPossition: "Senior Mobile Engineer",
     company: "Aristocrat Gaming",
-    startDate: "November 2023",
+    startDate: "Agosto 2025",
     endDate: Date.now(),
+  },
+  {
+    jobPossition: "Senior Mobile Engineer",
+    company: "Aristocrat Gaming",
+    startDate: "November 2023",
+    endDate: "Julio 2025",
   },
   {
     jobPossition: "Fullstack Developer",
