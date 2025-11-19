@@ -113,6 +113,9 @@ let Experience = [
 
 <ul>
   <li>
+    <a href="https://www.talktotailor.ai/" target="_blank">Tailor</a>
+  </li>
+  <li>
     <a href="https://www.aristocratgaming.com/us/casino-operator/cx-solutions/customer-mobile-experience/playermax" target="_blank">PlayerMax</a>
   </li>
   <li>
