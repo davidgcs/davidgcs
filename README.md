@@ -71,8 +71,8 @@ const Studies = [
 ```javascript
 let Experience = [
   {
-    jobPossition: "Senior Mobile Engineer",
-    company: "Aristocrat Gaming",
+    jobPossition: "Senior Frontend Developer",
+    company: "Tailor",
     startDate: "Agosto 2025",
     endDate: Date.now(),
   },
