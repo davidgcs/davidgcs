@@ -74,7 +74,7 @@ let Experience = [
     jobPossition: "Software Developer",
     company: "HashiCorp / IBM",
     startDate: "March 2026",
-    endDate: "date.now()",
+    endDate: date.now(),
   },
   {
     jobPossition: "Senior Frontend Developer",
