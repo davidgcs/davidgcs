@@ -162,7 +162,7 @@ let Experience = [
     </div>
 </div>
 <div style="display:flex">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="width: 15px; height: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" style="width: 15px; height: 15px;">
     TypeScript
     <div>
         :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :white_circle:
@@ -197,7 +197,7 @@ let Experience = [
     </div>
 </div>
 <div style="display:flex">
-    <img src="https://es.wikipedia.org/wiki/Python#/media/Archivo:Python-logo-notext.svg" style="width: 15px; height: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="width: 15px; height: 15px;">
     Python
     <div>
         :black_circle: :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:
