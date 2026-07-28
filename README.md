@@ -141,7 +141,7 @@ let Experience = [
 ## :sparkles: Skills
 
 <div style="display:flex">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" style="width: 15px; height: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/250px-Angular_gradient_logo.png" style="width: 15px; height: 15px;">
     Angular
     <div>
         :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
@@ -190,14 +190,14 @@ let Experience = [
     </div>
 </div>
 <div style="display:flex">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" style="width: 15px; height: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" style="width: 15px; height: 15px;">
     React
     <div>
         :black_circle: :black_circle: :black_circle: :white_circle: :white_circle: :white_circle:
     </div>
 </div>
 <div style="display:flex">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width: 15px; height: 15px;">
+    <img src="https://es.wikipedia.org/wiki/Python#/media/Archivo:Python-logo-notext.svg" style="width: 15px; height: 15px;">
     Python
     <div>
         :black_circle: :black_circle: :white_circle: :white_circle: :white_circle: :white_circle:
