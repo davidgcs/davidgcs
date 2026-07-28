@@ -34,7 +34,7 @@ Contact details:
 <ul>
   <li>
     <a href="https://www.linkedin.com/in/david-gómez-cesteros-10a090123/">
-      <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="15px" height="15px"/> Linkedin
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="15px" height="15px"/> Linkedin
       </a>
   </li>
   <li>
