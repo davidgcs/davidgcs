@@ -215,3 +215,9 @@ let Experience = [
 <br>
 
 <a href="#top">Back to top</a>
+
+---
+
+## :rocket: My Apps
+
+- :shield: **[Safe Layer](https://davidgcs.github.io/safelayer/)** — Sanitize images and PDF documents locally in your browser before sharing them.
