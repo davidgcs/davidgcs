@@ -133,5 +133,5 @@ I am currently working as a **Software Developer at HashiCorp / IBM**. Outside w
 </table>
 
 <p align="center">
-  <a href="#top">Back to top ↑</a>
+  <a href="#readme">Back to top ↑</a>
 </p>
