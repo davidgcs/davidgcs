@@ -130,6 +130,20 @@ I am currently working as a **Software Developer at HashiCorp / IBM**. Outside w
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="100%">
+      <h3>🌄 HDR Converter</h3>
+      <p>Turn an HDR photo or screenshot into an SDR image that looks right everywhere. Crop it, let auto exposure map the highlights and tones, compare before and after with a draggable wipe, and download the result — all locally in your browser, using tone mapping ported from FFmpeg.</p>
+      <p>
+        <a href="https://davidgcs.github.io/hdr-converter/">
+          <img src="https://img.shields.io/badge/Launch%20app-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch HDR Converter">
+        </a>
+        <a href="https://github.com/davidgcs/hdr-converter">
+          <img src="https://img.shields.io/badge/Source%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View HDR Converter source code">
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
